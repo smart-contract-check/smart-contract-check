@@ -1,0 +1,2 @@
+def constants():
+    return None
